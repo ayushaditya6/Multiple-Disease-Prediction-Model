@@ -26,7 +26,7 @@ The MDPS project employs Support Vector Machine (SVM) and Logistic Regression, a
    ```bash
    git clone https://github.com/yourusername/multiple-disease-prediction.git
 
-##How It Works
+## How It Works
 - **Input**: The user enters various health metrics such as age, blood pressure, glucose levels, etc.
 - **Model Prediction**: Based on the input, the system uses trained machine learning models to predict the likelihood of a specific disease.
 - **Output**: The system provides the prediction result and advises whether further medical consultation is recommended.
