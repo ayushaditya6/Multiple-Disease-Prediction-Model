@@ -24,7 +24,7 @@ The MDPS project employs Support Vector Machine (SVM) and Logistic Regression, a
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/multiple-disease-prediction.git
+   git clone https://github.com/ayushaditya6/Multiple-Disease-Prediction-Model.git
 
 ## How It Works
 - **Input**: The user enters various health metrics such as age, blood pressure, glucose levels, etc.
