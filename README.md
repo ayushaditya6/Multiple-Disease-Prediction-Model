@@ -18,3 +18,29 @@ Python
 Machine Learning Libraries (e.g., scikit-learn, pickle)
 
 Streamlit
+
+
+
+
+# Multiple Disease Prediction System
+
+## Overview
+The **Multiple Disease Prediction System** is a machine learning-based web application that predicts the likelihood of a person having heart disease, Parkinson's disease, or diabetes. It leverages various classification algorithms to analyze user inputs and provides quick, reliable predictions.
+
+## Features
+- Predicts three diseases: Heart Disease, Parkinson’s Disease, and Diabetes.
+- User-friendly web interface.
+- Efficient and fast predictions based on user input.
+- Built using Python's machine learning libraries.
+
+## Technologies Used
+- **Frontend**: HTML, CSS, JavaScript
+- **Backend**: Python (Flask framework)
+- **Machine Learning Libraries**: scikit-learn, pandas, numpy
+- **Modeling Algorithms**: Logistic Regression, SVM, Random Forest, etc.
+
+## Setup Instructions
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/multiple-disease-prediction.git
+
